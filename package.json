@@ -1,0 +1,20 @@
+{
+  "name": "dtsf",
+  "version": "0.0.1",
+  "description": "Data Transfer Super Fast",
+  "main": "dist/app.js",
+  "scripts": {
+    "start": "tsc && node dist/app.js"
+},
+  "keywords": [],
+  "author": "Sandro642",
+  "license": "Mit",
+  "devDependencies": {
+    "@types/express": "^4.16.1",
+    "tslint": "^5.12.1",
+    "typescript": "^3.3.3"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
